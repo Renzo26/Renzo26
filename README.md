@@ -24,7 +24,6 @@
 - Modelagem de Dados - Fundação Bradesco
 
 ### 📌 Projetos e Portfólio:
-🔗 **GitHub:** [github.com/Renzo26](https://github.com/Renzo26)
 🔗 **Projeto Registro de Chamados:** [github.com/Renzo26/app-chamados](https://github.com/Renzo26/app-chamados)
 
 ### 📩 Vamos conectar?
