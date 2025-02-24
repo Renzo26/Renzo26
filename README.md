@@ -29,6 +29,6 @@
 
 ### 📩 Vamos conectar?
 📧 [arthur.renzo04@gmail.com](mailto:arthur.renzo04@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+🔗 [LinkedIn](https://www.linkedin.com/in/arthur-renzo-90571326a/)
 
 📌 *"A tecnologia move o mundo. Sempre em busca de evolução!"* 🚀
