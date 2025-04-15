@@ -24,7 +24,7 @@ Busco oportunidades como **Desenvolvedor Júnior e Analista de Suporte**, sempre
 ---
 
 ## 📚 Formação & Cursos
-🎓 **Ciência da Computação** - USCS (Previsão de conclusão: 2025)  
+🎓 **Ciência da Computação** - USCS (Previsão de conclusão: 2026)  
 📌 **Cursos:**  
 - **Fundamentos de TI - Cisco** → Redes, segurança e infraestrutura de TI.  
 - **Administração e Implementação de Banco de Dados - Fundação Bradesco** → SQL, modelagem e manutenção.  
