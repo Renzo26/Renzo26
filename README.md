@@ -35,10 +35,7 @@ Busco oportunidades como **Desenvolvedor Júnior e Analista de Suporte**, sempre
 ## 📌 Projetos e Portfólio:
 🔗 **GitHub:** [github.com/Renzo26](https://github.com/Renzo26)  
 🔗 **Projeto Registro de Chamados:** [github.com/Renzo26/app-chamados](https://github.com/Renzo26/app-chamados)  
-
-📌 Outros projetos em destaque:  
-- 🔹 [Automação com n8n](https://github.com/Renzo26/automacao-n8n) → Exemplo de automação de processos.  
-- 🔹 [API Flask para Suporte Técnico](https://github.com/Renzo26/api-suporte) → API em Flask para gerenciamento de chamados.  
+  
 
 ---
 
