@@ -35,13 +35,6 @@ Busco oportunidades como **Desenvolvedor Júnior e Analista de Suporte**, sempre
 ## 📌 Projetos e Portfólio:
 🔗 **GitHub:** [github.com/Renzo26](https://github.com/Renzo26)  
 🔗 **Projeto Registro de Chamados:** [github.com/Renzo26/app-chamados](https://github.com/Renzo26/app-chamados)  
-  
-
----
-
-## 📊 Estatísticas do GitHub
-![Renzo26's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renzo26&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renzo26&layout=compact&theme=radical)
 
 ---
 
