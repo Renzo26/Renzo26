@@ -3,8 +3,6 @@
 ## 🎯 Sobre mim
 🚀 Olá! Meu nome é **Arthur Renzo** e sou apaixonado por tecnologia, automação e desenvolvimento de software.  
 Atualmente, estou no **6º semestre de Ciência da Computação - USCS** e atuo como **Desenvolvedor FullStack**.  
-Busco oportunidades como **Desenvolvedor Júnior e Analista de Suporte**, sempre aprendendo mais sobre **automação de processos, DevOps e infraestrutura de TI**.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas que utilizo:
